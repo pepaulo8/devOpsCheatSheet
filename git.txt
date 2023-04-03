@@ -1,0 +1,1 @@
+- Adicionar todos os arquivos, exceto algum específico ::: git add --all -- ':!path/to/file1'

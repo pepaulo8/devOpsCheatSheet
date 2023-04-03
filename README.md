@@ -1,0 +1,1 @@
+Hi there! This repository is a place for share notes and cheats related to DevOps or general development. Feel free to contribute xD
