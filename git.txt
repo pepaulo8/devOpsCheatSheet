@@ -1,1 +1,3 @@
 - Adicionar todos os arquivos, exceto algum específico ::: git add --all -- ':!path/to/file1'
+
+-  Desfazer o último commit local :::: git reset HEAD~
